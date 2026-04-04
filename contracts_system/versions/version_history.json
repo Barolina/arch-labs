@@ -1,0 +1,46 @@
+{
+  "files": {
+    "animals_contracts_v1.xlsx": {
+      "created_at": "2026-04-04T12:58:39.364409",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "timestamp": "2026-04-04T12:58:39.364423",
+          "file_path": "versions/animals_contracts_v1.xlsx/animals_contracts_v1.xlsx.1.0.0_20260404_125839.xlsx",
+          "change_description": "Первая версия контрактов",
+          "validation": {
+            "is_valid": true,
+            "errors_count": 0,
+            "warnings_count": 0,
+            "stats": {
+              "total_rows": 10,
+              "total_columns": 8
+            }
+          }
+        }
+      ],
+      "last_updated": "2026-04-04T12:58:39.364429"
+    },
+    "animals_contracts_v2.xlsx": {
+      "created_at": "2026-04-04T12:58:56.100583",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "timestamp": "2026-04-04T12:58:56.100604",
+          "file_path": "versions/animals_contracts_v2.xlsx/animals_contracts_v2.xlsx.1.0.0_20260404_125856.xlsx",
+          "change_description": "Добавлены 2 новых животных, удалена птица Кеша, обновлены данные",
+          "validation": {
+            "is_valid": true,
+            "errors_count": 0,
+            "warnings_count": 0,
+            "stats": {
+              "total_rows": 11,
+              "total_columns": 8
+            }
+          }
+        }
+      ],
+      "last_updated": "2026-04-04T12:58:56.100611"
+    }
+  }
+}

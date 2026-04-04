@@ -1,0 +1,27 @@
+{
+  "project": "arch-labs",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-04",
+      "changes": {
+        "added": [
+          {
+            "message": "Первый релиз проекта arch-labs",
+            "timestamp": "2026-04-04T12:51:08.139073"
+          }
+        ],
+        "changed": [],
+        "deprecated": [],
+        "removed": [],
+        "fixed": [
+          {
+            "message": "Исправлена ошибка авторизации в JWT модуле",
+            "timestamp": "2026-04-04T12:51:10.102772"
+          }
+        ],
+        "security": []
+      }
+    }
+  ]
+}

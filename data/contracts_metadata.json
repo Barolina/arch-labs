@@ -1,0 +1,26 @@
+{
+  "valid_animals": {
+    "created_at": "2026-04-04T13:20:15.965911",
+    "versions": [
+      {
+        "version": 1,
+        "filename": "valid_animals_v1.xlsx",
+        "source_file": "examples/valid_animals_v1.xlsx",
+        "imported_at": "2026-04-04T13:20:16.079274",
+        "hash": "ee31d7202834f77a6f77dd90d77d9720",
+        "rows_count": 4,
+        "imported_by": "analyst"
+      },
+      {
+        "version": 2,
+        "filename": "valid_animals_v2.xlsx",
+        "source_file": "examples/valid_animals_v2.xlsx",
+        "imported_at": "2026-04-04T13:20:22.000672",
+        "hash": "8c46574b318a5a8a3e1f99e8d2dbdec9",
+        "rows_count": 5,
+        "imported_by": "analyst"
+      }
+    ],
+    "last_version": 2
+  }
+}
