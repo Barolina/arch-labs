@@ -1,8 +1,6 @@
-```gitignore
-# Dependencies
-.venv/
-venv/
-__pycache__/
+```
+# Excel files
+*.xlsx
 
 # Logs and temp files
 *.log
@@ -13,7 +11,29 @@ __pycache__/
 .env.local
 *.env.*
 
-# Versions and uploads - based on project structure
-contracts_system/versions/
-contracts_system/uploads/*.xlsx
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+.env
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git/modules/
+.DS_Store
 ```
